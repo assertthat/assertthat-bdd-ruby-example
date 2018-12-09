@@ -1,2 +1,2 @@
-### Example project for [assertthat-bdd](https://github.com/assertthat/assertthat-bdd-gem) gem 
+### Example project for [assertthat-bdd-maven-plugin](https://github.com/assertthat/assertthat-bdd-maven-plugin) 
 
